@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Sensitive data and logs
+.env
+*.log
+db.sqlite3 # Example for a local database file
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store # macOS system files
+Thumbs.db # Windows system files
